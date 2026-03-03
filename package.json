@@ -1,0 +1,35 @@
+{
+  "name": "pmx",
+  "version": "1.0.0",
+  "description": "PMX-AI-Project-Manager is an intelligent project management application that integrates artificial intelligence to enhance productivity and collaboration in project execution. This tool is designed for modern teams looking to streamline their workflow and maximize project success.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@radix-ui/react-icons": "^1.3.2",
+    "@react-three/drei": "^10.7.7",
+    "@react-three/fiber": "^9.5.0",
+    "@tanstack/react-query": "^5.90.21",
+    "@types/three": "^0.183.1",
+    "axios": "^1.13.6",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "framer-motion": "^12.34.5",
+    "lucia": "^3.2.2",
+    "lucide-react": "^0.576.0",
+    "mongoose": "^9.2.3",
+    "nodemon": "^3.1.14",
+    "path": "^0.12.7",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "react-router-dom": "^7.13.1",
+    "socket.io-client": "^4.8.3",
+    "three": "^0.183.2",
+    "zustand": "^5.0.11"
+  }
+}
